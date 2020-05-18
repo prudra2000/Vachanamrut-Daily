@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332778008118",
+    "firebase_url": "https://vachanamrut-app.firebaseio.com",
+    "project_id": "vachanamrut-app",
+    "storage_bucket": "vachanamrut-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332778008118:android:76e9fb3cbf4d82f60b3297",
+        "android_client_info": {
+          "package_name": "com.example.vachanamrut_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332778008118-sb7dp3ceq13tqspc7lrla27gmhtig0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMPu-fMGQ9PxujP6OM-pdh0v2PWUMGJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332778008118-sb7dp3ceq13tqspc7lrla27gmhtig0vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
