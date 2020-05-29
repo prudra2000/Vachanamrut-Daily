@@ -1,8 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'home.dart';
 import 'listVQuotes.dart';
-import 'notifications.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -34,9 +33,7 @@ class MainPage extends StatelessWidget {
         title: Text('Daily Vachanamrut Readings'),
         backgroundColor: Color.fromRGBO(247, 119, 32, 1),
       ),
-    body:Center(
-      child: JsonPage()
-    )
+    body:JsonPage()
   );
 }
 }

@@ -49,7 +49,6 @@ class _JsonPageState extends State<JsonPage> {
           return _tile(data[index].body, data[index].chapter, Icons.work);
         });
   }
-
   Card _tile(String title, String subtitle, IconData icon) => Card(
     child: ListTile(
         title: Text(title,
